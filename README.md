@@ -32,7 +32,7 @@
 
 ## 📫 Connect with Me
 - GitHub: https://github.com/shibani2004
-- LinkedIn: https://linkedin.com/in/your-profile
+- LinkedIn: https://www.linkedin.com/in/shibani-bardhan-55949b349/
 
 ---
 
