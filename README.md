@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Shibani Bardhan
 
-<!--
-**shibani2004/shibani2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | 💻 Aspiring Software Developer  
+🌱 Currently learning Web Development & Java  
+✨ Passionate about building real-world projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+- 🎓 MCA student
+- 💡 Interested in Web Development & Java
+- 🚀 Beginner-friendly projects learner
+- 📍 India
+
+---
+
+## 🛠 Skills
+- HTML  
+- CSS  
+- JavaScript  
+- Java (Basics)  
+- Git & GitHub  
+
+---
+
+## 📂 Projects
+- 🔹 Portfolio Website  
+- 🔹 To-Do List Web App  
+- 🔹 Static Schoolsite  
+
+---
+
+## 📫 Connect with Me
+- GitHub: https://github.com/your-username
+- LinkedIn: https://linkedin.com/in/your-profile
+
+---
+
+⭐ Thank you for visiting my GitHub profile!
