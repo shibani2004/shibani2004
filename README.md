@@ -1,8 +1,8 @@
 # Hi 👋, I'm Shibani Bardhan
 
-🎓 MCA Student | 💻 Aspiring Software Developer  
-🌱 Currently learning Web Development & Java  
-✨ Passionate about building real-world projects
+🎓 MCA Student | 💻 Aspiring Software Developer   
+💻 Curious about development and problem-solving  
+📘 Believer in continuous learning and self-improvement
 
 ---
 
