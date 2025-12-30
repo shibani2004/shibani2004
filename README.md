@@ -31,7 +31,7 @@
 ---
 
 ## 📫 Connect with Me
-- GitHub: https://github.com/your-username
+- GitHub: https://github.com/shibani2004
 - LinkedIn: https://linkedin.com/in/your-profile
 
 ---
