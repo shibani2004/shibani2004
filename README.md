@@ -13,9 +13,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=Curious+about+Development+💻;Problem+Solver+🧠;Always+Learning+📘" />
 </p>
 
----
 
-## 🌸 About Me
+
+##  About Me
 
 <table align="center">
 <tr>
@@ -30,9 +30,9 @@
 </tr>
 </table>
 
----
 
-## 🛠️ Skills & Tools
+
+##  Skills & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,c,mysql,java,git,github&theme=light" />
@@ -44,21 +44,22 @@
   <img src="https://img.shields.io/badge/Tools-Git%20|%20GitHub-333333?style=for-the-badge" />
 </p>
 
----
 
-## 🚀 Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio%20Website-Responsive%20Design-8A2BE2?style=for-the-badge" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/📝%20To--Do%20List%20App-Task%20Management-5A4FCF?style=for-the-badge" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/🏫%20Static%20School%20Website-Informational-6A5ACD?style=for-the-badge" />
-</p>
+##  Projects
 
----
+- 🌐 **Portfolio Website**  
+  A responsive personal portfolio showcasing my skills and projects.
 
-## 🌐 Connect With Me
+- 📝 **To-Do List Web App**  
+  A simple task management application to organize daily activities.
+
+- 🏫 **Static School Website**  
+  An informational website designed for a school with clean layout.
+
+
+
+##  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
