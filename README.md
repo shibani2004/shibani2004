@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm Shibani Bardhan</h1>
-<h3 align="center">🎓 MCA Student | Aspiring Software Developer</h3>
+<h1 align="center">Hey 👋, I'm <span style="color:#8A2BE2;">Shibani Bardhan</span></h1>
+<h3 align="center">🎓 MCA Student | 🌱 Aspiring Software Developer</h3>
 
 <p align="center">
   <img 
@@ -10,50 +10,60 @@
 </p>
 
 <p align="center">
-💻 Curious about development & problem-solving <br/>
-📘 Believer in continuous learning and self-improvement
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=Curious+about+Development+💻;Problem+Solver+🧠;Always+Learning+📘" />
 </p>
 
+---
 
+## 🌸 About Me
 
-##  ABOUT ME
+<table align="center">
+<tr>
+<td>
 
-- 🎓 MCA student from India  
-- 💡 Interested in **Web Development**   
-- 🚀 Learning through beginner-friendly projects  
-- 🌱 Growing one step at a time  
+- 🎓 MCA student from **India**  
+- 💡 Interested in **Web Development**  
+- 🚀 Learning via beginner-friendly projects  
+- 🌱 Improving skills consistently  
 
+</td>
+</tr>
+</table>
 
+---
 
-## SKILLS & TOOLS
+## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,mysql,java,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,mysql,java,git,github&theme=light" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-HTML%20|%20CSS%20|%20JS-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Java%20|%20MySQL-5A4FCF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tools-Git%20|%20GitHub-333333?style=for-the-badge" />
+</p>
 
+---
 
-## PROJECTS
+## 🚀 Projects
 
--  **Portfolio Website** – Personal responsive portfolio  
--  **To-Do List Web App** – Simple task management app  
--  **Static School Website** – Informational school site  
+<p align="center">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio%20Website-Responsive%20Design-8A2BE2?style=for-the-badge" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/📝%20To--Do%20List%20App-Task%20Management-5A4FCF?style=for-the-badge" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/🏫%20Static%20School%20Website-Informational-6A5ACD?style=for-the-badge" />
+</p>
 
+---
 
-
-## CONNECT WITH ME
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Shibani%20Bardhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/your-instagram-username" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
-
-<p align="center">
-✨ <i>"Small steps every day lead to big achievements."</i> ✨
-</p>
+    <img src="https://img.shields.io/badge/Instagram-@shibani-E4405F?style=for-the-badge&logo=instagram&logoC
