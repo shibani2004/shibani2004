@@ -1,9 +1,10 @@
 <p align="center">
   <img 
-    src="https://i.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" 
-    width="85%"
+    src="https://i.giphy.com/media/8RKtavVmPumy2o/giphy.gif" 
+    width="80%"
   />
 </p>
+
 
 # Hi 👋, I'm Shibani Bardhan
 
