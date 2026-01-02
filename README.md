@@ -13,15 +13,24 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=Curious+about+Development+💻;Problem+Solver+🧠;Always+Learning+📘" />
 </p>
 
+---
 
 ##  ABOUT ME
 
 - 🎓 MCA student from India  
-- 💡 Interested in **Web Development** 
+- 💡 Interested in **Web Development**  
 - 🚀 Learning through beginner-friendly projects  
 - 🌱 Growing one step at a time  
 
+<p align="center">
+  <img 
+    src="https://static.vecteezy.com/system/resources/thumbnails/023/579/761/small/programming-and-engineering-development-tiny-girl-programmer-or-developer-create-code-programming-language-php-html-css-js-modern-flat-cartoon-style-illustration-on-white-background-vector.jpg"
+    width="350"
+    alt="developer illustration"
+  />
+</p>
 
+---
 
 ##  SKILLS & TOOLS
 
@@ -35,7 +44,7 @@
   <img src="https://img.shields.io/badge/Tools-Git%20|%20GitHub-333333?style=for-the-badge" />
 </p>
 
-
+---
 
 ##  PROJECTS
 
@@ -48,7 +57,7 @@
 - 🏫 **Static School Website**  
   An informational website designed for a school with clean layout.
 
-
+---
 
 ##  CONNECT WITH ME
 
@@ -62,8 +71,8 @@
   </a>
 </p>
 
+---
 
 <p align="center">
 ✨ <i>"Small steps every day lead to big achievements."</i> ✨
 </p>
-
