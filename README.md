@@ -3,7 +3,7 @@
 
 <p align="center">
   <img 
-    src="https://i.pinimg.com/originals/a9/24/3d/a9243d82d3ad7878192211221b25a18c.gif"
+    src="https://i.pinimg.com/originals/2d/79/a2/2d79a22c6a7902c41866fe4badebe98e.gif"
     width="100%"
     alt="coding gif"
   />
