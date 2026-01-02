@@ -24,7 +24,7 @@
 
 <p align="center">
   <img 
-    src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif"
+    src="https://assets-v2.lottiefiles.com/a/3f9cf38a-116d-11ee-b74f-03d8ed1ed29e/yvKlzf67SM.gif"
     width="420"
     alt="developer working animation"
   />
