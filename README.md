@@ -3,7 +3,7 @@
 
 <p align="center">
   <img 
-    src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"
+    src="https://64.media.tumblr.com/a9e2ca6dce40d9f0aed757fe7cc134a3/2c0add43f8a95764-67/s640x960/ba2e73eeafd4d245e93b64e8cbc64ab532f732a6.gifv"
     width="100%"
     alt="coding gif"
   />
