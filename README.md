@@ -17,7 +17,7 @@
 ##  ABOUT ME
 
 - 🎓 MCA student from India  
-- 💡 Interested in **Web Development** & **Java**  
+- 💡 Interested in **Web Development** 
 - 🚀 Learning through beginner-friendly projects  
 - 🌱 Growing one step at a time  
 
@@ -53,7 +53,7 @@
 ##  CONNECT WITH ME
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://www.linkedin.com/in/shibani-bardhan-55949b349/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Shibani%20Bardhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;&nbsp;
