@@ -14,25 +14,16 @@
 </p>
 
 
+##  ABOUT ME
 
-##  About Me
-
-<table align="center">
-<tr>
-<td>
-
-- 🎓 MCA student from **India**  
-- 💡 Interested in **Web Development**  
-- 🚀 Learning via beginner-friendly projects  
-- 🌱 Improving skills consistently  
-
-</td>
-</tr>
-</table>
+- 🎓 MCA student from India  
+- 💡 Interested in **Web Development** & **Java**  
+- 🚀 Learning through beginner-friendly projects  
+- 🌱 Growing one step at a time  
 
 
 
-##  Skills & Tools
+##  SKILLS & TOOLS
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,c,mysql,java,git,github&theme=light" />
@@ -46,7 +37,7 @@
 
 
 
-##  Projects
+##  PROJECTS
 
 - 🌐 **Portfolio Website**  
   A responsive personal portfolio showcasing my skills and projects.
@@ -59,7 +50,7 @@
 
 
 
-##  Connect With Me
+##  CONNECT WITH ME
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
@@ -69,5 +60,10 @@
   <a href="https://www.instagram.com/your-instagram-username" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+</p>
+
+
+<p align="center">
+✨ <i>"Small steps every day lead to big achievements."</i> ✨
 </p>
 
