@@ -1,8 +1,11 @@
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontAlignY=35&animation=fadeIn"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Happy%20Coding!&fontSize=38&fontAlignY=35" />
 </p>
+
+<p align="center">
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="85%"/>
+</p>
+
 # Hi 👋, I'm Shibani Bardhan
 
 🎓 MCA Student | 💻 Aspiring Software Developer   
