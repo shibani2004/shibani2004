@@ -3,7 +3,7 @@
 
 <p align="center">
   <img 
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_DiG4xAUqU0OrwJqu1Py4Tk3n2UUCtTN9Q&s"
+    src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif"
     width="100%"
     alt="coding gif"
   />
