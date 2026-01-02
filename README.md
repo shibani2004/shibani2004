@@ -24,7 +24,7 @@
 
 <p align="center">
   <img 
-    src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif"
+    src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif"
     width="420"
     alt="developer working animation"
   />
