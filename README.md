@@ -1,10 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Happy%20Coding!&fontSize=38&fontAlignY=35" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fad0c4&height=200&section=header&text=Hello%20Coders!&fontSize=38"
+  />
 </p>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="85%"/>
+  <img src="https://i.giphy.com/media/8RKtavVmPumy2o/giphy.gif" width="78%" />
 </p>
+
 
 # Hi 👋, I'm Shibani Bardhan
 
