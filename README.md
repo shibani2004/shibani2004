@@ -18,7 +18,6 @@ Hey 👋, I'm Shibani Bardhan
 - 🚀 Beginner-friendly projects learner
 - 📍 India
 
----
 
 ##  SKILLS
 - HTML  
@@ -27,19 +26,16 @@ Hey 👋, I'm Shibani Bardhan
 - Java (Basics)  
 - Git & GitHub  
 
----
 
 ##  PROJECTS
 - 🔹 Portfolio Website  
 - 🔹 To-Do List Web App  
 - 🔹 Static Schoolsite  
 
----
 
 ##  CONNECT WITH ME
 - GitHub: https://github.com/shibani2004
 - LinkedIn: https://www.linkedin.com/in/shibani-bardhan-55949b349/
 
----
 
 ⭐ Thank you for visiting my GitHub profile!
