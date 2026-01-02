@@ -15,12 +15,14 @@
 </p>
 
 
+
 ##  ABOUT ME
 
 - 🎓 MCA student from India  
 - 💡 Interested in **Web Development** & **Java**  
 - 🚀 Learning through beginner-friendly projects  
 - 🌱 Growing one step at a time  
+
 
 
 ## SKILLS & TOOLS
@@ -30,11 +32,13 @@
 </p>
 
 
+
 ## PROJECTS
 
 - 🔹 **Portfolio Website** – Personal responsive portfolio  
 - 🔹 **To-Do List Web App** – Simple task management app  
 - 🔹 **Static School Website** – Informational school site  
+
 
 
 ## CONNECT WITH ME
