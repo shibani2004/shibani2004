@@ -24,7 +24,7 @@
 
 <p align="center">
   <img 
-    src="https://assets-v2.lottiefiles.com/a/3f9cf38a-116d-11ee-b74f-03d8ed1ed29e/yvKlzf67SM.gif"
+    src="https://media.tenor.com/g4EXYBqfPwwAAAAM/oleana-pokemon.gif"
     width="420"
     alt="developer working animation"
   />
