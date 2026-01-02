@@ -13,7 +13,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=Curious+about+Development+💻;Problem+Solver+🧠;Always+Learning+📘" />
 </p>
 
----
+
 
 ##  ABOUT ME
 
@@ -24,13 +24,13 @@
 
 <p align="center">
   <img 
-    src="https://png.pngtree.com/background/20250201/original/pngtree-a-laptop-screen-with-programming-code-picture-image_15824747.jpg"
-    width="350"
-    alt="developer illustration"
+    src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif"
+    width="420"
+    alt="developer working animation"
   />
 </p>
 
----
+
 
 ##  SKILLS & TOOLS
 
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Tools-Git%20|%20GitHub-333333?style=for-the-badge" />
 </p>
 
----
+
 
 ##  PROJECTS
 
@@ -57,7 +57,7 @@
 - 🏫 **Static School Website**  
   An informational website designed for a school with clean layout.
 
----
+
 
 ##  CONNECT WITH ME
 
@@ -71,7 +71,7 @@
   </a>
 </p>
 
----
+
 
 <p align="center">
 ✨ <i>"Small steps every day lead to big achievements."</i> ✨
