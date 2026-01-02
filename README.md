@@ -1,9 +1,16 @@
 <p align="center">
   <img 
-    src="https://i.giphy.com/media/8RKtavVmPumy2o/giphy.gif" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Happy%20Coding!&fontSize=38&fontAlignY=35" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-guy.gif"
     width="80%"
   />
 </p>
+
 
 
 # Hi 👋, I'm Shibani Bardhan
