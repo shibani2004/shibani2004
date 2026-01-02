@@ -1,41 +1,58 @@
-Hey 👋, I'm Shibani Bardhan
+<h1 align="center">Hey 👋, I'm Shibani Bardhan</h1>
+<h3 align="center">🎓 MCA Student | Aspiring Software Developer</h3>
 
 <p align="center">
   <img 
     src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif"
     width="100%"
+    alt="coding gif"
   />
 </p>
 
-🎓 MCA Student |  Aspiring Software Developer   
-💻 Curious about development and problem-solving  
+<p align="center">
+💻 Curious about development & problem-solving <br/>
 📘 Believer in continuous learning and self-improvement
+</p>
+
+---
+
+## 🌟 About Me
+
+- 🎓 MCA student from India  
+- 💡 Interested in **Web Development** & **Java**  
+- 🚀 Learning through beginner-friendly projects  
+- 🌱 Growing one step at a time  
 
 
-## About Me
-- 🎓 MCA student
-- 💡 Interested in Web Development & Java
-- 🚀 Beginner-friendly projects learner
-- 📍 India
+## 🛠️ Skills & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,mysql,java,git,github" />
+</p>
 
 
-##  SKILLS
-- HTML  
-- CSS  
-- JavaScript  
-- Java (Basics)  
-- Git & GitHub  
+## 🚀 Projects
 
+- 🔹 **Portfolio Website** – Personal responsive portfolio  
+- 🔹 **To-Do List Web App** – Simple task management app  
+- 🔹 **Static School Website** – Informational school site  
 
-##  PROJECTS
-- 🔹 Portfolio Website  
-- 🔹 To-Do List Web App  
-- 🔹 Static Schoolsite  
+---
 
+## 🌐 Connect With Me
 
-##  CONNECT WITH ME
-- GitHub: https://github.com/shibani2004
-- LinkedIn: https://www.linkedin.com/in/shibani-bardhan-55949b349/
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/your-instagram-username" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
+---
 
-⭐ Thank you for visiting my GitHub profile!
+<p align="center">
+✨ <i>"Small steps every day lead to big achievements."</i> ✨
+</p>
