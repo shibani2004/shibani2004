@@ -24,7 +24,7 @@
 
 <p align="center">
   <img 
-    src="https://static.vecteezy.com/system/resources/thumbnails/023/579/761/small/programming-and-engineering-development-tiny-girl-programmer-or-developer-create-code-programming-language-php-html-css-js-modern-flat-cartoon-style-illustration-on-white-background-vector.jpg"
+    src="https://png.pngtree.com/background/20250201/original/pngtree-a-laptop-screen-with-programming-code-picture-image_15824747.jpg"
     width="350"
     alt="developer illustration"
   />
