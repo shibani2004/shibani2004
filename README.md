@@ -19,7 +19,7 @@
 ##  ABOUT ME
 
 - 🎓 MCA student from India  
-- 💡 Interested in **Web Development** & **Java**  
+- 💡 Interested in **Web Development**   
 - 🚀 Learning through beginner-friendly projects  
 - 🌱 Growing one step at a time  
 
@@ -35,9 +35,9 @@
 
 ## PROJECTS
 
-- 🔹 **Portfolio Website** – Personal responsive portfolio  
-- 🔹 **To-Do List Web App** – Simple task management app  
-- 🔹 **Static School Website** – Informational school site  
+-  **Portfolio Website** – Personal responsive portfolio  
+-  **To-Do List Web App** – Simple task management app  
+-  **Static School Website** – Informational school site  
 
 
 
