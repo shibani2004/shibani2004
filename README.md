@@ -1,19 +1,11 @@
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Happy%20Coding!&fontSize=38&fontAlignY=35" 
-  />
-</p>
+Hey 👋, I'm Shibani Bardhan
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-guy.gif"
+    src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif"
     width="80%"
   />
 </p>
-
-
-
-# Hi 👋, I'm Shibani Bardhan
 
 🎓 MCA Student | 💻 Aspiring Software Developer   
 💻 Curious about development and problem-solving  
