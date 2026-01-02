@@ -3,7 +3,7 @@
 
 <p align="center">
   <img 
-    src="https://i.pinimg.com/originals/2d/79/a2/2d79a22c6a7902c41866fe4badebe98e.gif"
+    src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"
     width="100%"
     alt="coding gif"
   />
