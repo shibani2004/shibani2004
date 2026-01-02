@@ -14,9 +14,8 @@
 📘 Believer in continuous learning and self-improvement
 </p>
 
----
 
-## 🌟 About Me
+##  ABOUT ME
 
 - 🎓 MCA student from India  
 - 💡 Interested in **Web Development** & **Java**  
@@ -24,22 +23,21 @@
 - 🌱 Growing one step at a time  
 
 
-## 🛠️ Skills & Tools
+## SKILLS & TOOLS
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,c,mysql,java,git,github" />
 </p>
 
 
-## 🚀 Projects
+## PROJECTS
 
 - 🔹 **Portfolio Website** – Personal responsive portfolio  
 - 🔹 **To-Do List Web App** – Simple task management app  
 - 🔹 **Static School Website** – Informational school site  
 
----
 
-## 🌐 Connect With Me
+## CONNECT WITH ME
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
@@ -51,7 +49,6 @@
   </a>
 </p>
 
----
 
 <p align="center">
 ✨ <i>"Small steps every day lead to big achievements."</i> ✨
