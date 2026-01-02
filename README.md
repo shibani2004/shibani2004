@@ -1,16 +1,9 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Happy%20Coding!&fontSize=38&fontAlignY=35" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://i.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" 
+    src="https://i.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" 
     width="85%"
   />
 </p>
-
 
 # Hi 👋, I'm Shibani Bardhan
 
