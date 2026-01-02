@@ -24,7 +24,7 @@
 
 <p align="center">
   <img 
-    src="https://media.tenor.com/g4EXYBqfPwwAAAAM/oleana-pokemon.gif"
+    src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/24ed9392232693.5e45b4885aef5.jpg"
     width="420"
     alt="developer working animation"
   />
