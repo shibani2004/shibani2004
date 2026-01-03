@@ -17,10 +17,10 @@
 
 ##  ABOUT ME
 
-- 🎓 MCA student from India  
-- 💡 Interested in **Web Development**  
-- 🚀 Learning through beginner-friendly projects  
-- 🌱 Growing one step at a time  
+-  MCA student from India  
+-  Interested in **Web Development**  
+-  Learning through beginner-friendly projects  
+-  Growing one step at a time  
 
 
 
