@@ -22,14 +22,6 @@
 - 🚀 Learning through beginner-friendly projects  
 - 🌱 Growing one step at a time  
 
-<p align="center">
-  <img 
-    src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/24ed9392232693.5e45b4885aef5.jpg"
-    width="420"
-    alt="developer working animation"
-  />
-</p>
-
 
 
 ##  SKILLS & TOOLS
