@@ -17,7 +17,7 @@
 
 ##  ABOUT ME
 
-I am an MCA student from India with a strong interest in web development and problem-solving. I enjoy learning new concepts and applying them through beginner-friendly projects. My focus is on building a solid foundation in programming and development skills. I believe in continuous learning and steady improvement. I am working towards growing as a confident and capable software developer.
+I believe in continuous learning and steady improvement. I am working towards growing as a confident and capable software developer.
 
 -  MCA student from India  
 -  Interested in **Web Development**  
