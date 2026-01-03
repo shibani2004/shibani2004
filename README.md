@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm <span style="color:#8A2BE2;">Shibani Bardhan</span></h1>
-<h3 align="center">🎓 MCA Student | 🌱 Aspiring Software Developer</h3>
+<h3 align="center">🎓 MCA Student |  Aspiring Software Developer</h3>
 
 <p align="center">
   <img 
@@ -66,7 +66,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Shibani%20Bardhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/your-instagram-username" target="_blank">
+  <a href="https://www.instagram.com/_sbbardhan" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
