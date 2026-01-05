@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm <span style="color:#8A2BE2;">Shibani Bardhan</span></h1>
+<h1 align="center">Hey 👋, I'm <span style="color:#8A2BE2;">Shibani Bardhan(kandhei)</span></h1>
 <h3 align="center">🎓 MCA Student |  Aspiring Software Developer</h3>
 
 <p align="center">
