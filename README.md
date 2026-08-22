@@ -15,58 +15,121 @@
 
 
 
-##  ABOUT ME
 
-I believe in continuous learning and steady improvement. I am working towards growing as a confident and capable software developer.
+## 👩‍💻 About Me
 
--  MCA student from India  
--  Interested in **Web Development**  
--  Learning through beginner-friendly projects  
--  Growing one step at a time  
+- 🎓 MCA Graduate from GIFT Autonomous, Bhubaneswar
+- 💡 Interested in Artificial Intelligence & Machine Learning
+- 🐍 Working with Python for Data Science and Machine Learning
+- 🌐 Interested in Full-Stack Web Development
+- 🚀 Learning by building practical projects
+- 📚 Always exploring new technologies and improving my skills
 
+---
 
+## 🛠️ Skills & Technologies
 
-##  SKILLS & TOOLS
+### 💻 Programming & Web Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,mysql,java,git,github&theme=light" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,tailwind" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-HTML%20|%20CSS%20|%20JS-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-Java%20|%20MySQL-5A4FCF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tools-Git%20|%20GitHub-333333?style=for-the-badge" />
+### 🤖 AI / Machine Learning
+
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- Machine Learning
+- Data Analysis
+- Natural Language Processing
+- Recommendation Systems
+
+### 🌐 Backend & Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flask,mysql" />
 </p>
 
+- Flask
+- MySQL
+- SQLite
+- REST APIs
 
+### 🔧 Tools & Platforms
 
-##  PROJECTS
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
 
-- 🌐 **Portfolio Website**  
-  A responsive personal portfolio showcasing my skills and projects.
+---
 
-- 📝 **To-Do List Web App**  
-  A simple task management application to organize daily activities.
+## 🚀 Projects
 
-- 🏫 **Static School Website**  
-  An informational website designed for a school with clean layout.
+### 🎬 Intelligent Movie Recommendation System
 
+A movie recommendation system that recommends movies based on user preferences using content-based filtering.
 
+**Technologies:** Python, Pandas, Scikit-learn, NLP, CountVectorizer, Cosine Similarity, Flask
 
-##  CONNECT WITH ME
+---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shibani-bardhan-55949b349/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Shibani%20Bardhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+### 🌐 Portfolio Website
+
+A responsive personal portfolio website showcasing my skills, projects, education, and development journey.
+
+**Technologies:** HTML, CSS, JavaScript
+
+---
+
+### 🏫 School Website
+
+A responsive static school website designed to present information about the school, academics, facilities, and activities.
+
+**Technologies:** HTML, CSS, JavaScript
+
+---
+
+### ✅ To-Do List Web App
+
+A simple task management web application for organizing and managing daily activities.
+
+**Technologies:** HTML, CSS, JavaScript
+
+---
+
+## 📊 What I'm Currently Learning
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 🐍 Advanced Python
+- 🌐 Full-Stack Development
+- ⚛️ React
+- 🔥 Flask
+- 📊 Data Analysis & Visualization
+- ☁️ Cloud & Deployment
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/shibani2004">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/_sbbardhan" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/shibani-bardhan-55949b349">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
+---
 
+## ✨ My Goal
 
-<p align="center">
-✨ <i>"Small steps every day lead to big achievements."</i> ✨
-</p>
+> Build meaningful projects, keep learning, and grow into a skilled software developer with strong expertise in AI/ML and modern web technologies.
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
