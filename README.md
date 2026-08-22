@@ -20,19 +20,17 @@
 
 - 🎓 MCA Graduate from GIFT Autonomous, Bhubaneswar
 - 💡 Interested in Artificial Intelligence & Machine Learning
-- 🐍 Working with Python for Data Science and Machine Learning
 - 🌐 Interested in Full-Stack Web Development
 - 🚀 Learning by building practical projects
 - 📚 Always exploring new technologies and improving my skills
 
----
 
 ## 🛠️ Skills & Technologies
 
 ### 💻 Programming & Web Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,tailwind" />
 </p>
 
 ### 🤖 AI / Machine Learning
@@ -45,7 +43,6 @@
 - Seaborn
 - Machine Learning
 - Data Analysis
-- Natural Language Processing
 - Recommendation Systems
 
 ### 🌐 Backend & Database
@@ -56,16 +53,13 @@
 
 - Flask
 - MySQL
-- SQLite
-- REST APIs
 
 ### 🔧 Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
----
 
 ## 🚀 Projects
 
@@ -75,7 +69,6 @@ A movie recommendation system that recommends movies based on user preferences u
 
 **Technologies:** Python, Pandas, Scikit-learn, NLP, CountVectorizer, Cosine Similarity, Flask
 
----
 
 ### 🌐 Portfolio Website
 
@@ -83,7 +76,6 @@ A responsive personal portfolio website showcasing my skills, projects, educatio
 
 **Technologies:** HTML, CSS, JavaScript
 
----
 
 ### 🏫 School Website
 
@@ -91,7 +83,6 @@ A responsive static school website designed to present information about the sch
 
 **Technologies:** HTML, CSS, JavaScript
 
----
 
 ### ✅ To-Do List Web App
 
@@ -99,19 +90,14 @@ A simple task management web application for organizing and managing daily activ
 
 **Technologies:** HTML, CSS, JavaScript
 
----
 
 ## 📊 What I'm Currently Learning
 
 - 🤖 Artificial Intelligence & Machine Learning
 - 🐍 Advanced Python
 - 🌐 Full-Stack Development
-- ⚛️ React
 - 🔥 Flask
-- 📊 Data Analysis & Visualization
-- ☁️ Cloud & Deployment
 
----
 
 ## 📫 Connect With Me
 
@@ -129,7 +115,3 @@ A simple task management web application for organizing and managing daily activ
 ## ✨ My Goal
 
 > Build meaningful projects, keep learning, and grow into a skilled software developer with strong expertise in AI/ML and modern web technologies.
-
----
-
-⭐ Feel free to explore my repositories and connect with me!
