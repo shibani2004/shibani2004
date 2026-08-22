@@ -20,7 +20,7 @@
 
 - 🎓 MCA Graduate from GIFT Autonomous, Bhubaneswar
 - 💡 Interested in Artificial Intelligence & Machine Learning
-- 🌐 Interested in Full-Stack Web Development
+- 🌐 Interested in Frontend Web Development
 - 🚀 Learning by building practical projects
 - 📚 Always exploring new technologies and improving my skills
 
